@@ -1,0 +1,965 @@
+[
+    {
+        "Srno": "Srno",
+        "Name": "Name",
+        "War Attack": "War Attack",
+        "Clan Capital": "Clan Capital",
+        "Clan Games": "Clan Games",
+        "Clan Games Maxed": "Clan Games Maxed",
+        "Clan Score": "Clan Score"
+    },
+    {
+        "Srno": "1",
+        "Name": "KING SEENU",
+        "War Attack": "40",
+        "Clan Capital": "0",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "40"
+    },
+    {
+        "Srno": "2",
+        "Name": "A_MIRAH",
+        "War Attack": "6",
+        "Clan Capital": "0",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "6"
+    },
+    {
+        "Srno": "3",
+        "Name": "BONH",
+        "War Attack": "18",
+        "Clan Capital": "0",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "18"
+    },
+    {
+        "Srno": "4",
+        "Name": "TVOY",
+        "War Attack": "22",
+        "Clan Capital": "2",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "24"
+    },
+    {
+        "Srno": "5",
+        "Name": "SHARPZY",
+        "War Attack": "9",
+        "Clan Capital": "0",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "9"
+    },
+    {
+        "Srno": "6",
+        "Name": "SAKLEN",
+        "War Attack": "4",
+        "Clan Capital": "7",
+        "Clan Games": "2",
+        "Clan Games Maxed": "0",
+        "Clan Score": "13"
+    },
+    {
+        "Srno": "7",
+        "Name": "KING SEENU2",
+        "War Attack": "5",
+        "Clan Capital": "0",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "5"
+    },
+    {
+        "Srno": "8",
+        "Name": "BAJIRAV",
+        "War Attack": "1",
+        "Clan Capital": "0",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "1"
+    },
+    {
+        "Srno": "9",
+        "Name": "DAMIAN",
+        "War Attack": "0",
+        "Clan Capital": "0",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "0"
+    },
+    {
+        "Srno": "10",
+        "Name": "Mohammad Jeddi",
+        "War Attack": "6",
+        "Clan Capital": "0",
+        "Clan Games": "1",
+        "Clan Games Maxed": "0",
+        "Clan Score": "7"
+    },
+    {
+        "Srno": "11",
+        "Name": "spa ek",
+        "War Attack": "20",
+        "Clan Capital": "1",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "21"
+    },
+    {
+        "Srno": "12",
+        "Name": "Deep",
+        "War Attack": "8",
+        "Clan Capital": "3",
+        "Clan Games": "2",
+        "Clan Games Maxed": "0",
+        "Clan Score": "13"
+    },
+    {
+        "Srno": "13",
+        "Name": "Hannah",
+        "War Attack": "0",
+        "Clan Capital": "9",
+        "Clan Games": "1",
+        "Clan Games Maxed": "0",
+        "Clan Score": "10"
+    },
+    {
+        "Srno": "14",
+        "Name": "Younes",
+        "War Attack": "0",
+        "Clan Capital": "1",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "1"
+    },
+    {
+        "Srno": "15",
+        "Name": "paul",
+        "War Attack": "0",
+        "Clan Capital": "1",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "1"
+    },
+    {
+        "Srno": "16",
+        "Name": "AR Rasel@",
+        "War Attack": "0",
+        "Clan Capital": "1",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "1"
+    },
+    {
+        "Srno": "17",
+        "Name": "PRODIP",
+        "War Attack": "1",
+        "Clan Capital": "0",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "1"
+    },
+    {
+        "Srno": "18",
+        "Name": "rilof",
+        "War Attack": "0",
+        "Clan Capital": "1",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "1"
+    },
+    {
+        "Srno": "19",
+        "Name": "sb1010",
+        "War Attack": "0",
+        "Clan Capital": "1",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "1"
+    },
+    {
+        "Srno": "20",
+        "Name": "Matt Ox",
+        "War Attack": "1",
+        "Clan Capital": "1",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "2"
+    },
+    {
+        "Srno": "21",
+        "Name": "Janaka anuruddh",
+        "War Attack": "0",
+        "Clan Capital": "3",
+        "Clan Games": "2",
+        "Clan Games Maxed": "0",
+        "Clan Score": "5"
+    },
+    {
+        "Srno": "22",
+        "Name": "Tempete de feu",
+        "War Attack": "0",
+        "Clan Capital": "2",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "2"
+    },
+    {
+        "Srno": "23",
+        "Name": "TIRTHA",
+        "War Attack": "0",
+        "Clan Capital": "3",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "3"
+    },
+    {
+        "Srno": "24",
+        "Name": "podda2",
+        "War Attack": "1",
+        "Clan Capital": "2",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "3"
+    },
+    {
+        "Srno": "25",
+        "Name": "Cat",
+        "War Attack": "0",
+        "Clan Capital": "1",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "1"
+    },
+    {
+        "Srno": "26",
+        "Name": "griff",
+        "War Attack": "3",
+        "Clan Capital": "1",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "4"
+    },
+    {
+        "Srno": "27",
+        "Name": "coc",
+        "War Attack": "5",
+        "Clan Capital": "2",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "7"
+    },
+    {
+        "Srno": "28",
+        "Name": "ANSAAR75",
+        "War Attack": "5",
+        "Clan Capital": "6",
+        "Clan Games": "4",
+        "Clan Games Maxed": "2",
+        "Clan Score": "19"
+    },
+    {
+        "Srno": "29",
+        "Name": "TOFITA",
+        "War Attack": "25",
+        "Clan Capital": "11",
+        "Clan Games": "4",
+        "Clan Games Maxed": "0",
+        "Clan Score": "40"
+    },
+    {
+        "Srno": "30",
+        "Name": "Mdoge",
+        "War Attack": "2",
+        "Clan Capital": "2",
+        "Clan Games": "2",
+        "Clan Games Maxed": "0",
+        "Clan Score": "6"
+    },
+    {
+        "Srno": "31",
+        "Name": "abhi",
+        "War Attack": "0",
+        "Clan Capital": "3",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "3"
+    },
+    {
+        "Srno": "32",
+        "Name": "erase",
+        "War Attack": "5",
+        "Clan Capital": "5",
+        "Clan Games": "1",
+        "Clan Games Maxed": "1",
+        "Clan Score": "11"
+    },
+    {
+        "Srno": "33",
+        "Name": "am.ak",
+        "War Attack": "1",
+        "Clan Capital": "7",
+        "Clan Games": "1",
+        "Clan Games Maxed": "0",
+        "Clan Score": "9"
+    },
+    {
+        "Srno": "34",
+        "Name": "SPARSH",
+        "War Attack": "0",
+        "Clan Capital": "2",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "2"
+    },
+    {
+        "Srno": "35",
+        "Name": "Jaryn",
+        "War Attack": "7",
+        "Clan Capital": "2",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "9"
+    },
+    {
+        "Srno": "36",
+        "Name": "Dr.Neuro",
+        "War Attack": "0",
+        "Clan Capital": "4",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "4"
+    },
+    {
+        "Srno": "37",
+        "Name": "NdaHH_",
+        "War Attack": "1",
+        "Clan Capital": "0",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "1"
+    },
+    {
+        "Srno": "38",
+        "Name": "Spider-Man",
+        "War Attack": "0",
+        "Clan Capital": "4",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "4"
+    },
+    {
+        "Srno": "39",
+        "Name": "midouja",
+        "War Attack": "1",
+        "Clan Capital": "4",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "5"
+    },
+    {
+        "Srno": "40",
+        "Name": "arthur",
+        "War Attack": "0",
+        "Clan Capital": "4",
+        "Clan Games": "1",
+        "Clan Games Maxed": "0",
+        "Clan Score": "5"
+    },
+    {
+        "Srno": "41",
+        "Name": "Rabrabyeojhan",
+        "War Attack": "1",
+        "Clan Capital": "1",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "2"
+    },
+    {
+        "Srno": "42",
+        "Name": "Brenne's CAMP!",
+        "War Attack": "0",
+        "Clan Capital": "1",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "1"
+    },
+    {
+        "Srno": "43",
+        "Name": "mb102006",
+        "War Attack": "0",
+        "Clan Capital": "1",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "1"
+    },
+    {
+        "Srno": "44",
+        "Name": "real_Maty1255",
+        "War Attack": "0",
+        "Clan Capital": "0",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "0"
+    },
+    {
+        "Srno": "45",
+        "Name": "yungaid",
+        "War Attack": "1",
+        "Clan Capital": "1",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "2"
+    },
+    {
+        "Srno": "46",
+        "Name": "UILeMaNn",
+        "War Attack": "0",
+        "Clan Capital": "0",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "0"
+    },
+    {
+        "Srno": "47",
+        "Name": "Pentium",
+        "War Attack": "0",
+        "Clan Capital": "0",
+        "Clan Games": "1",
+        "Clan Games Maxed": "1",
+        "Clan Score": "1"
+    },
+    {
+        "Srno": "48",
+        "Name": "panda",
+        "War Attack": "0",
+        "Clan Capital": "0",
+        "Clan Games": "1",
+        "Clan Games Maxed": "1",
+        "Clan Score": "1"
+    },
+    {
+        "Srno": "49",
+        "Name": "sreeram.k.y",
+        "War Attack": "1",
+        "Clan Capital": "7",
+        "Clan Games": "2",
+        "Clan Games Maxed": "1",
+        "Clan Score": "10"
+    },
+    {
+        "Srno": "50",
+        "Name": "Kebab",
+        "War Attack": "0",
+        "Clan Capital": "0",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "0"
+    },
+    {
+        "Srno": "51",
+        "Name": "MASTER SARVESH",
+        "War Attack": "32",
+        "Clan Capital": "13",
+        "Clan Games": "7",
+        "Clan Games Maxed": "0",
+        "Clan Score": "52"
+    },
+    {
+        "Srno": "52",
+        "Name": "NIKHIL",
+        "War Attack": "20",
+        "Clan Capital": "6",
+        "Clan Games": "1",
+        "Clan Games Maxed": "1",
+        "Clan Score": "27"
+    },
+    {
+        "Srno": "53",
+        "Name": "taghonski",
+        "War Attack": "27",
+        "Clan Capital": "16",
+        "Clan Games": "4",
+        "Clan Games Maxed": "3",
+        "Clan Score": "55"
+    },
+    {
+        "Srno": "54",
+        "Name": "kyaw_ein",
+        "War Attack": "73",
+        "Clan Capital": "0",
+        "Clan Games": "5",
+        "Clan Games Maxed": "0",
+        "Clan Score": "78"
+    },
+    {
+        "Srno": "55",
+        "Name": "karthi",
+        "War Attack": "54",
+        "Clan Capital": "10",
+        "Clan Games": "4",
+        "Clan Games Maxed": "1",
+        "Clan Score": "68"
+    },
+    {
+        "Srno": "56",
+        "Name": "RK79",
+        "War Attack": "59",
+        "Clan Capital": "5",
+        "Clan Games": "3",
+        "Clan Games Maxed": "0",
+        "Clan Score": "67"
+    },
+    {
+        "Srno": "57",
+        "Name": "thank God",
+        "War Attack": "3",
+        "Clan Capital": "18",
+        "Clan Games": "1",
+        "Clan Games Maxed": "0",
+        "Clan Score": "22"
+    },
+    {
+        "Srno": "58",
+        "Name": "Abhi624",
+        "War Attack": "11",
+        "Clan Capital": "15",
+        "Clan Games": "2",
+        "Clan Games Maxed": "1",
+        "Clan Score": "28"
+    },
+    {
+        "Srno": "59",
+        "Name": "itZDeniz1",
+        "War Attack": "0",
+        "Clan Capital": "4",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "4"
+    },
+    {
+        "Srno": "60",
+        "Name": "moiochoa04",
+        "War Attack": "0",
+        "Clan Capital": "1",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "1"
+    },
+    {
+        "Srno": "61",
+        "Name": "evil_dancer",
+        "War Attack": "0",
+        "Clan Capital": "7",
+        "Clan Games": "4",
+        "Clan Games Maxed": "0",
+        "Clan Score": "11"
+    },
+    {
+        "Srno": "62",
+        "Name": "Flare",
+        "War Attack": "2",
+        "Clan Capital": "6",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "8"
+    },
+    {
+        "Srno": "63",
+        "Name": "ligma",
+        "War Attack": "1",
+        "Clan Capital": "4",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "5"
+    },
+    {
+        "Srno": "64",
+        "Name": "Kay M",
+        "War Attack": "34",
+        "Clan Capital": "22",
+        "Clan Games": "3",
+        "Clan Games Maxed": "3",
+        "Clan Score": "65"
+    },
+    {
+        "Srno": "65",
+        "Name": "john cena",
+        "War Attack": "1",
+        "Clan Capital": "6",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "7"
+    },
+    {
+        "Srno": "66",
+        "Name": "ApE_Re@L#22",
+        "War Attack": "13",
+        "Clan Capital": "0",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "13"
+    },
+    {
+        "Srno": "67",
+        "Name": "Mimi7",
+        "War Attack": "12",
+        "Clan Capital": "8",
+        "Clan Games": "1",
+        "Clan Games Maxed": "1",
+        "Clan Score": "21"
+    },
+    {
+        "Srno": "68",
+        "Name": "EivindReus",
+        "War Attack": "2",
+        "Clan Capital": "0",
+        "Clan Games": "1",
+        "Clan Games Maxed": "0",
+        "Clan Score": "3"
+    },
+    {
+        "Srno": "69",
+        "Name": "Oscar",
+        "War Attack": "7",
+        "Clan Capital": "18",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "25"
+    },
+    {
+        "Srno": "70",
+        "Name": "AJ",
+        "War Attack": "0",
+        "Clan Capital": "0",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "0"
+    },
+    {
+        "Srno": "71",
+        "Name": "Connor",
+        "War Attack": "9",
+        "Clan Capital": "18",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "27"
+    },
+    {
+        "Srno": "72",
+        "Name": "mr.lemo",
+        "War Attack": "0",
+        "Clan Capital": "0",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "0"
+    },
+    {
+        "Srno": "73",
+        "Name": ":Pro@:",
+        "War Attack": "18",
+        "Clan Capital": "13",
+        "Clan Games": "1",
+        "Clan Games Maxed": "0",
+        "Clan Score": "32"
+    },
+    {
+        "Srno": "74",
+        "Name": "Mar€lyn",
+        "War Attack": "2",
+        "Clan Capital": "1",
+        "Clan Games": "1",
+        "Clan Games Maxed": "0",
+        "Clan Score": "4"
+    },
+    {
+        "Srno": "75",
+        "Name": "lNeedHealing",
+        "War Attack": "0",
+        "Clan Capital": "6",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "6"
+    },
+    {
+        "Srno": "76",
+        "Name": "its a smurf",
+        "War Attack": "0",
+        "Clan Capital": "0",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "0"
+    },
+    {
+        "Srno": "77",
+        "Name": "hockeypro",
+        "War Attack": "0",
+        "Clan Capital": "0",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "0"
+    },
+    {
+        "Srno": "78",
+        "Name": "PlumpToast",
+        "War Attack": "0",
+        "Clan Capital": "15",
+        "Clan Games": "1",
+        "Clan Games Maxed": "0",
+        "Clan Score": "16"
+    },
+    {
+        "Srno": "79",
+        "Name": "VRK",
+        "War Attack": "31",
+        "Clan Capital": "12",
+        "Clan Games": "6",
+        "Clan Games Maxed": "3",
+        "Clan Score": "61"
+    },
+    {
+        "Srno": "80",
+        "Name": "SidHeart02",
+        "War Attack": "19",
+        "Clan Capital": "0",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "19"
+    },
+    {
+        "Srno": "81",
+        "Name": "Taghonski",
+        "War Attack": "0",
+        "Clan Capital": "19",
+        "Clan Games": "6",
+        "Clan Games Maxed": "0",
+        "Clan Score": "25"
+    },
+    {
+        "Srno": "82",
+        "Name": "the boss",
+        "War Attack": "0",
+        "Clan Capital": "0",
+        "Clan Games": "1",
+        "Clan Games Maxed": "0",
+        "Clan Score": "1"
+    },
+    {
+        "Srno": "83",
+        "Name": "NeptuneDiver",
+        "War Attack": "2",
+        "Clan Capital": "12",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "14"
+    },
+    {
+        "Srno": "84",
+        "Name": "Rahul",
+        "War Attack": "0",
+        "Clan Capital": "0",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "0"
+    },
+    {
+        "Srno": "85",
+        "Name": "levelost",
+        "War Attack": "0",
+        "Clan Capital": "0",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "0"
+    },
+    {
+        "Srno": "86",
+        "Name": "rocking utkarsh",
+        "War Attack": "0",
+        "Clan Capital": "0",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "0"
+    },
+    {
+        "Srno": "87",
+        "Name": "/\\//\\",
+        "War Attack": "8",
+        "Clan Capital": "18",
+        "Clan Games": "1",
+        "Clan Games Maxed": "0",
+        "Clan Score": "27"
+    },
+    {
+        "Srno": "88",
+        "Name": "^-^Bea^-^",
+        "War Attack": "0",
+        "Clan Capital": "6",
+        "Clan Games": "1",
+        "Clan Games Maxed": "0",
+        "Clan Score": "7"
+    },
+    {
+        "Srno": "89",
+        "Name": "lost my main",
+        "War Attack": "0",
+        "Clan Capital": "0",
+        "Clan Games": "1",
+        "Clan Games Maxed": "0",
+        "Clan Score": "1"
+    },
+    {
+        "Srno": "90",
+        "Name": "kindstonge17",
+        "War Attack": "4",
+        "Clan Capital": "98",
+        "Clan Games": "8",
+        "Clan Games Maxed": "3",
+        "Clan Score": "126"
+    },
+    {
+        "Srno": "91",
+        "Name": "TarikulRider",
+        "War Attack": "0",
+        "Clan Capital": "0",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "0"
+    },
+    {
+        "Srno": "92",
+        "Name": "pro pleyer to",
+        "War Attack": "2",
+        "Clan Capital": "14",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "16"
+    },
+    {
+        "Srno": "93",
+        "Name": "Hekskva",
+        "War Attack": "3",
+        "Clan Capital": "12",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "15"
+    },
+    {
+        "Srno": "94",
+        "Name": "Simon",
+        "War Attack": "0",
+        "Clan Capital": "0",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "0"
+    },
+    {
+        "Srno": "95",
+        "Name": "Laza",
+        "War Attack": "0",
+        "Clan Capital": "0",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "0"
+    },
+    {
+        "Srno": "96",
+        "Name": "JensM4A4",
+        "War Attack": "0",
+        "Clan Capital": "6",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "6"
+    },
+    {
+        "Srno": "97",
+        "Name": "LUKAS",
+        "War Attack": "0",
+        "Clan Capital": "0",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "0"
+    },
+    {
+        "Srno": "98",
+        "Name": "xXEskiPeskiXx",
+        "War Attack": "7",
+        "Clan Capital": "0",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "7"
+    },
+    {
+        "Srno": "99",
+        "Name": "DiknBaus",
+        "War Attack": "8",
+        "Clan Capital": "4",
+        "Clan Games": "2",
+        "Clan Games Maxed": "0",
+        "Clan Score": "14"
+    },
+    {
+        "Srno": "100",
+        "Name": "Xbowskill",
+        "War Attack": "4",
+        "Clan Capital": "59",
+        "Clan Games": "6",
+        "Clan Games Maxed": "0",
+        "Clan Score": "69"
+    },
+    {
+        "Srno": "101",
+        "Name": "akash",
+        "War Attack": "0",
+        "Clan Capital": "18",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "18"
+    },
+    {
+        "Srno": "102",
+        "Name": "arshul",
+        "War Attack": "2",
+        "Clan Capital": "117",
+        "Clan Games": "3",
+        "Clan Games Maxed": "0",
+        "Clan Score": "122"
+    },
+    {
+        "Srno": "103",
+        "Name": "Rider_22",
+        "War Attack": "2",
+        "Clan Capital": "7",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "9"
+    },
+    {
+        "Srno": "104",
+        "Name": "Rapz",
+        "War Attack": "1",
+        "Clan Capital": "0",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "1"
+    },
+    {
+        "Srno": "105",
+        "Name": "ash",
+        "War Attack": "1",
+        "Clan Capital": "30",
+        "Clan Games": "2",
+        "Clan Games Maxed": "2",
+        "Clan Score": "35"
+    },
+    {
+        "Srno": "106",
+        "Name": "John",
+        "War Attack": "0",
+        "Clan Capital": "12",
+        "Clan Games": "0",
+        "Clan Games Maxed": "0",
+        "Clan Score": "12"
+    }
+]
