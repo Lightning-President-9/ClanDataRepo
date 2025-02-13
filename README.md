@@ -1,5 +1,5 @@
 # Project Overview
-This repository is dedicated to collecting and maintaining data files for Clan Members, Former Clan Members, and Top Contributors. The data is available in four formats: PDF, JSON, CSV, and Excel. Starting from June 2024, new files are added monthly, time permitting.
+This repository is committed to gathering and holding files containing Clan Members' data, Former Clan Members' data, and Top Contributors' data. The files are supported in four file formats: PDF, JSON, CSV, and Excel. From June 2024, fresh files are uploaded every month, subject to time availability.
 
 ## Important Update
-As of June 2024, there was a major update to the database and the JavaScript used for exporting files. The column name 'clancapitalattack' has been changed to 'clancapital'. Additionally, headers in all file formats, except PDF, have been cleaned for easier manipulation in subsequent use.
+Up to June 2024, there was a significant upgrade of the database and the JavaScript employed in file exporting. The column name 'clancapitalattack' has been updated to 'clancapital'. Furthermore, headers in all file types, except PDF, have been sanitized for simpler handling in future use.
