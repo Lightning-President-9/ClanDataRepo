@@ -1,0 +1,1370 @@
+[
+    {
+        "srno": "1",
+        "name": "KING SEENU",
+        "warattack": "40",
+        "clancapital": "0",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "40"
+    },
+    {
+        "srno": "2",
+        "name": "A_MIRAH",
+        "warattack": "6",
+        "clancapital": "0",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "6"
+    },
+    {
+        "srno": "3",
+        "name": "BONH",
+        "warattack": "18",
+        "clancapital": "0",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "18"
+    },
+    {
+        "srno": "4",
+        "name": "TVOY",
+        "warattack": "22",
+        "clancapital": "2",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "24"
+    },
+    {
+        "srno": "5",
+        "name": "SHARPZY",
+        "warattack": "9",
+        "clancapital": "0",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "9"
+    },
+    {
+        "srno": "6",
+        "name": "SAKLEN",
+        "warattack": "4",
+        "clancapital": "7",
+        "clangames": "2",
+        "clangamesmaxed": "0",
+        "clanscore": "13"
+    },
+    {
+        "srno": "7",
+        "name": "KING SEENU2",
+        "warattack": "5",
+        "clancapital": "0",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "5"
+    },
+    {
+        "srno": "8",
+        "name": "BAJIRAV",
+        "warattack": "1",
+        "clancapital": "0",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "1"
+    },
+    {
+        "srno": "9",
+        "name": "DAMIAN",
+        "warattack": "0",
+        "clancapital": "0",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "0"
+    },
+    {
+        "srno": "10",
+        "name": "Mohammad Jeddi",
+        "warattack": "6",
+        "clancapital": "0",
+        "clangames": "1",
+        "clangamesmaxed": "0",
+        "clanscore": "7"
+    },
+    {
+        "srno": "11",
+        "name": "spa ek",
+        "warattack": "20",
+        "clancapital": "1",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "21"
+    },
+    {
+        "srno": "12",
+        "name": "Deep",
+        "warattack": "8",
+        "clancapital": "3",
+        "clangames": "2",
+        "clangamesmaxed": "0",
+        "clanscore": "13"
+    },
+    {
+        "srno": "13",
+        "name": "Hannah",
+        "warattack": "0",
+        "clancapital": "9",
+        "clangames": "1",
+        "clangamesmaxed": "0",
+        "clanscore": "10"
+    },
+    {
+        "srno": "14",
+        "name": "Younes",
+        "warattack": "0",
+        "clancapital": "1",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "1"
+    },
+    {
+        "srno": "15",
+        "name": "paul",
+        "warattack": "0",
+        "clancapital": "1",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "1"
+    },
+    {
+        "srno": "16",
+        "name": "AR Rasel@",
+        "warattack": "0",
+        "clancapital": "1",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "1"
+    },
+    {
+        "srno": "17",
+        "name": "PRODIP",
+        "warattack": "1",
+        "clancapital": "0",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "1"
+    },
+    {
+        "srno": "18",
+        "name": "rilof",
+        "warattack": "0",
+        "clancapital": "1",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "1"
+    },
+    {
+        "srno": "19",
+        "name": "sb1010",
+        "warattack": "0",
+        "clancapital": "1",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "1"
+    },
+    {
+        "srno": "20",
+        "name": "Matt Ox",
+        "warattack": "1",
+        "clancapital": "1",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "2"
+    },
+    {
+        "srno": "21",
+        "name": "Janaka anuruddh",
+        "warattack": "0",
+        "clancapital": "3",
+        "clangames": "2",
+        "clangamesmaxed": "0",
+        "clanscore": "5"
+    },
+    {
+        "srno": "22",
+        "name": "Tempete de feu",
+        "warattack": "0",
+        "clancapital": "2",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "2"
+    },
+    {
+        "srno": "23",
+        "name": "TIRTHA",
+        "warattack": "0",
+        "clancapital": "3",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "3"
+    },
+    {
+        "srno": "24",
+        "name": "podda2",
+        "warattack": "1",
+        "clancapital": "2",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "3"
+    },
+    {
+        "srno": "25",
+        "name": "Cat",
+        "warattack": "0",
+        "clancapital": "1",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "1"
+    },
+    {
+        "srno": "26",
+        "name": "griff",
+        "warattack": "3",
+        "clancapital": "1",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "4"
+    },
+    {
+        "srno": "27",
+        "name": "coc",
+        "warattack": "5",
+        "clancapital": "2",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "7"
+    },
+    {
+        "srno": "28",
+        "name": "ANSAAR75",
+        "warattack": "5",
+        "clancapital": "6",
+        "clangames": "4",
+        "clangamesmaxed": "2",
+        "clanscore": "19"
+    },
+    {
+        "srno": "29",
+        "name": "TOFITA",
+        "warattack": "25",
+        "clancapital": "11",
+        "clangames": "4",
+        "clangamesmaxed": "0",
+        "clanscore": "40"
+    },
+    {
+        "srno": "30",
+        "name": "Mdoge",
+        "warattack": "2",
+        "clancapital": "2",
+        "clangames": "2",
+        "clangamesmaxed": "0",
+        "clanscore": "6"
+    },
+    {
+        "srno": "31",
+        "name": "abhi",
+        "warattack": "0",
+        "clancapital": "3",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "3"
+    },
+    {
+        "srno": "32",
+        "name": "erase",
+        "warattack": "5",
+        "clancapital": "5",
+        "clangames": "1",
+        "clangamesmaxed": "1",
+        "clanscore": "11"
+    },
+    {
+        "srno": "33",
+        "name": "am.ak",
+        "warattack": "1",
+        "clancapital": "7",
+        "clangames": "1",
+        "clangamesmaxed": "0",
+        "clanscore": "9"
+    },
+    {
+        "srno": "34",
+        "name": "Jaryn",
+        "warattack": "7",
+        "clancapital": "2",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "9"
+    },
+    {
+        "srno": "35",
+        "name": "Dr.Neuro",
+        "warattack": "0",
+        "clancapital": "4",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "4"
+    },
+    {
+        "srno": "36",
+        "name": "NdaHH_",
+        "warattack": "1",
+        "clancapital": "0",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "1"
+    },
+    {
+        "srno": "37",
+        "name": "Spider-Man",
+        "warattack": "0",
+        "clancapital": "4",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "4"
+    },
+    {
+        "srno": "38",
+        "name": "midouja",
+        "warattack": "1",
+        "clancapital": "4",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "5"
+    },
+    {
+        "srno": "39",
+        "name": "arthur",
+        "warattack": "0",
+        "clancapital": "4",
+        "clangames": "1",
+        "clangamesmaxed": "0",
+        "clanscore": "5"
+    },
+    {
+        "srno": "40",
+        "name": "Rabrabyeojhan",
+        "warattack": "1",
+        "clancapital": "1",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "2"
+    },
+    {
+        "srno": "41",
+        "name": "Brenne s CAMP!",
+        "warattack": "0",
+        "clancapital": "1",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "1"
+    },
+    {
+        "srno": "42",
+        "name": "mb102006",
+        "warattack": "0",
+        "clancapital": "1",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "1"
+    },
+    {
+        "srno": "43",
+        "name": "real_Maty1255",
+        "warattack": "0",
+        "clancapital": "0",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "0"
+    },
+    {
+        "srno": "44",
+        "name": "yungaid",
+        "warattack": "1",
+        "clancapital": "1",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "2"
+    },
+    {
+        "srno": "45",
+        "name": "UILeMaNn",
+        "warattack": "0",
+        "clancapital": "0",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "0"
+    },
+    {
+        "srno": "46",
+        "name": "Pentium",
+        "warattack": "0",
+        "clancapital": "0",
+        "clangames": "1",
+        "clangamesmaxed": "1",
+        "clanscore": "1"
+    },
+    {
+        "srno": "47",
+        "name": "panda",
+        "warattack": "0",
+        "clancapital": "0",
+        "clangames": "1",
+        "clangamesmaxed": "1",
+        "clanscore": "1"
+    },
+    {
+        "srno": "48",
+        "name": "sreeram.k.y",
+        "warattack": "1",
+        "clancapital": "7",
+        "clangames": "2",
+        "clangamesmaxed": "1",
+        "clanscore": "10"
+    },
+    {
+        "srno": "49",
+        "name": "Kebab",
+        "warattack": "0",
+        "clancapital": "0",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "0"
+    },
+    {
+        "srno": "50",
+        "name": "NIKHIL",
+        "warattack": "20",
+        "clancapital": "6",
+        "clangames": "1",
+        "clangamesmaxed": "1",
+        "clanscore": "27"
+    },
+    {
+        "srno": "51",
+        "name": "taghonski",
+        "warattack": "27",
+        "clancapital": "16",
+        "clangames": "4",
+        "clangamesmaxed": "3",
+        "clanscore": "55"
+    },
+    {
+        "srno": "52",
+        "name": "kyaw_ein",
+        "warattack": "73",
+        "clancapital": "0",
+        "clangames": "5",
+        "clangamesmaxed": "0",
+        "clanscore": "78"
+    },
+    {
+        "srno": "53",
+        "name": "karthi",
+        "warattack": "54",
+        "clancapital": "10",
+        "clangames": "4",
+        "clangamesmaxed": "1",
+        "clanscore": "68"
+    },
+    {
+        "srno": "54",
+        "name": "RK79",
+        "warattack": "59",
+        "clancapital": "5",
+        "clangames": "3",
+        "clangamesmaxed": "0",
+        "clanscore": "67"
+    },
+    {
+        "srno": "55",
+        "name": "thank God",
+        "warattack": "3",
+        "clancapital": "18",
+        "clangames": "1",
+        "clangamesmaxed": "0",
+        "clanscore": "22"
+    },
+    {
+        "srno": "56",
+        "name": "Abhi624",
+        "warattack": "11",
+        "clancapital": "15",
+        "clangames": "2",
+        "clangamesmaxed": "1",
+        "clanscore": "28"
+    },
+    {
+        "srno": "57",
+        "name": "itZDeniz1",
+        "warattack": "0",
+        "clancapital": "4",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "4"
+    },
+    {
+        "srno": "58",
+        "name": "moiochoa04",
+        "warattack": "0",
+        "clancapital": "1",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "1"
+    },
+    {
+        "srno": "59",
+        "name": "evil_dancer",
+        "warattack": "0",
+        "clancapital": "7",
+        "clangames": "4",
+        "clangamesmaxed": "0",
+        "clanscore": "11"
+    },
+    {
+        "srno": "60",
+        "name": "Flare",
+        "warattack": "2",
+        "clancapital": "6",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "8"
+    },
+    {
+        "srno": "61",
+        "name": "ligma",
+        "warattack": "1",
+        "clancapital": "4",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "5"
+    },
+    {
+        "srno": "62",
+        "name": "Kay M",
+        "warattack": "34",
+        "clancapital": "22",
+        "clangames": "3",
+        "clangamesmaxed": "3",
+        "clanscore": "65"
+    },
+    {
+        "srno": "63",
+        "name": "john cena",
+        "warattack": "1",
+        "clancapital": "6",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "7"
+    },
+    {
+        "srno": "64",
+        "name": "ApE_Re@L#22",
+        "warattack": "13",
+        "clancapital": "0",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "13"
+    },
+    {
+        "srno": "65",
+        "name": "Mimi7",
+        "warattack": "12",
+        "clancapital": "8",
+        "clangames": "1",
+        "clangamesmaxed": "1",
+        "clanscore": "21"
+    },
+    {
+        "srno": "66",
+        "name": "EivindReus",
+        "warattack": "2",
+        "clancapital": "0",
+        "clangames": "1",
+        "clangamesmaxed": "0",
+        "clanscore": "3"
+    },
+    {
+        "srno": "67",
+        "name": "Oscar",
+        "warattack": "7",
+        "clancapital": "18",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "25"
+    },
+    {
+        "srno": "68",
+        "name": "AJ",
+        "warattack": "0",
+        "clancapital": "0",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "0"
+    },
+    {
+        "srno": "69",
+        "name": "Connor",
+        "warattack": "9",
+        "clancapital": "18",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "27"
+    },
+    {
+        "srno": "70",
+        "name": "mr.lemo",
+        "warattack": "0",
+        "clancapital": "0",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "0"
+    },
+    {
+        "srno": "71",
+        "name": ":Pro@:",
+        "warattack": "18",
+        "clancapital": "13",
+        "clangames": "1",
+        "clangamesmaxed": "0",
+        "clanscore": "32"
+    },
+    {
+        "srno": "72",
+        "name": "Mar€lyn",
+        "warattack": "2",
+        "clancapital": "1",
+        "clangames": "1",
+        "clangamesmaxed": "0",
+        "clanscore": "4"
+    },
+    {
+        "srno": "73",
+        "name": "lNeedHealing",
+        "warattack": "0",
+        "clancapital": "6",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "6"
+    },
+    {
+        "srno": "74",
+        "name": "its a smurf",
+        "warattack": "0",
+        "clancapital": "0",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "0"
+    },
+    {
+        "srno": "75",
+        "name": "hockeypro",
+        "warattack": "0",
+        "clancapital": "0",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "0"
+    },
+    {
+        "srno": "76",
+        "name": "PlumpToast",
+        "warattack": "0",
+        "clancapital": "15",
+        "clangames": "1",
+        "clangamesmaxed": "0",
+        "clanscore": "16"
+    },
+    {
+        "srno": "77",
+        "name": "VRK",
+        "warattack": "31",
+        "clancapital": "12",
+        "clangames": "6",
+        "clangamesmaxed": "3",
+        "clanscore": "61"
+    },
+    {
+        "srno": "78",
+        "name": "SidHeart02",
+        "warattack": "19",
+        "clancapital": "0",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "19"
+    },
+    {
+        "srno": "79",
+        "name": "Taghonski",
+        "warattack": "0",
+        "clancapital": "19",
+        "clangames": "6",
+        "clangamesmaxed": "0",
+        "clanscore": "25"
+    },
+    {
+        "srno": "80",
+        "name": "the boss",
+        "warattack": "0",
+        "clancapital": "0",
+        "clangames": "1",
+        "clangamesmaxed": "0",
+        "clanscore": "1"
+    },
+    {
+        "srno": "81",
+        "name": "NeptuneDiver",
+        "warattack": "2",
+        "clancapital": "12",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "14"
+    },
+    {
+        "srno": "82",
+        "name": "Rahul",
+        "warattack": "0",
+        "clancapital": "0",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "0"
+    },
+    {
+        "srno": "83",
+        "name": "levelost",
+        "warattack": "0",
+        "clancapital": "0",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "0"
+    },
+    {
+        "srno": "84",
+        "name": "rocking utkarsh",
+        "warattack": "0",
+        "clancapital": "0",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "0"
+    },
+    {
+        "srno": "85",
+        "name": "/\\//\\",
+        "warattack": "8",
+        "clancapital": "18",
+        "clangames": "1",
+        "clangamesmaxed": "0",
+        "clanscore": "27"
+    },
+    {
+        "srno": "86",
+        "name": "^-^Bea^-^",
+        "warattack": "0",
+        "clancapital": "6",
+        "clangames": "1",
+        "clangamesmaxed": "0",
+        "clanscore": "7"
+    },
+    {
+        "srno": "87",
+        "name": "lost my main",
+        "warattack": "0",
+        "clancapital": "0",
+        "clangames": "1",
+        "clangamesmaxed": "0",
+        "clanscore": "1"
+    },
+    {
+        "srno": "88",
+        "name": "TarikulRider",
+        "warattack": "0",
+        "clancapital": "0",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "0"
+    },
+    {
+        "srno": "89",
+        "name": "pro player to",
+        "warattack": "2",
+        "clancapital": "14",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "16"
+    },
+    {
+        "srno": "90",
+        "name": "Hekskva",
+        "warattack": "3",
+        "clancapital": "12",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "15"
+    },
+    {
+        "srno": "91",
+        "name": "Simon",
+        "warattack": "0",
+        "clancapital": "0",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "0"
+    },
+    {
+        "srno": "92",
+        "name": "Laza",
+        "warattack": "0",
+        "clancapital": "0",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "0"
+    },
+    {
+        "srno": "93",
+        "name": "JensM4A4",
+        "warattack": "0",
+        "clancapital": "6",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "6"
+    },
+    {
+        "srno": "94",
+        "name": "LUKAS",
+        "warattack": "0",
+        "clancapital": "0",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "0"
+    },
+    {
+        "srno": "95",
+        "name": "xXEskiPeskiXx",
+        "warattack": "7",
+        "clancapital": "0",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "7"
+    },
+    {
+        "srno": "96",
+        "name": "DiknBaus",
+        "warattack": "8",
+        "clancapital": "4",
+        "clangames": "2",
+        "clangamesmaxed": "0",
+        "clanscore": "14"
+    },
+    {
+        "srno": "97",
+        "name": "Xbowskill",
+        "warattack": "4",
+        "clancapital": "59",
+        "clangames": "6",
+        "clangamesmaxed": "0",
+        "clanscore": "69"
+    },
+    {
+        "srno": "98",
+        "name": "akash",
+        "warattack": "0",
+        "clancapital": "18",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "18"
+    },
+    {
+        "srno": "99",
+        "name": "Rapz",
+        "warattack": "1",
+        "clancapital": "0",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "1"
+    },
+    {
+        "srno": "100",
+        "name": "ash",
+        "warattack": "1",
+        "clancapital": "30",
+        "clangames": "2",
+        "clangamesmaxed": "2",
+        "clanscore": "35"
+    },
+    {
+        "srno": "101",
+        "name": "John",
+        "warattack": "0",
+        "clancapital": "12",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "12"
+    },
+    {
+        "srno": "102",
+        "name": "Ramshe",
+        "warattack": "1",
+        "clancapital": "60",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "61"
+    },
+    {
+        "srno": "103",
+        "name": "GAADER",
+        "warattack": "4",
+        "clancapital": "12",
+        "clangames": "1",
+        "clangamesmaxed": "0",
+        "clanscore": "17"
+    },
+    {
+        "srno": "104",
+        "name": "roan",
+        "warattack": "0",
+        "clancapital": "13",
+        "clangames": "1",
+        "clangamesmaxed": "0",
+        "clanscore": "14"
+    },
+    {
+        "srno": "105",
+        "name": "Little8uddy",
+        "warattack": "49",
+        "clancapital": "86",
+        "clangames": "4",
+        "clangamesmaxed": "4",
+        "clanscore": "151"
+    },
+    {
+        "srno": "106",
+        "name": "Trapsus",
+        "warattack": "53",
+        "clancapital": "19",
+        "clangames": "13",
+        "clangamesmaxed": "0",
+        "clanscore": "85"
+    },
+    {
+        "srno": "107",
+        "name": "Admiral-V",
+        "warattack": "64",
+        "clancapital": "133",
+        "clangames": "5",
+        "clangamesmaxed": "1",
+        "clanscore": "202"
+    },
+    {
+        "srno": "108",
+        "name": "GUDETAMA",
+        "warattack": "34",
+        "clancapital": "102",
+        "clangames": "2",
+        "clangamesmaxed": "1",
+        "clanscore": "138"
+    },
+    {
+        "srno": "109",
+        "name": "Pixyy",
+        "warattack": "60",
+        "clancapital": "78",
+        "clangames": "3",
+        "clangamesmaxed": "3",
+        "clanscore": "147"
+    },
+    {
+        "srno": "110",
+        "name": "MIT PATEL",
+        "warattack": "82",
+        "clancapital": "87",
+        "clangames": "4",
+        "clangamesmaxed": "3",
+        "clanscore": "181"
+    },
+    {
+        "srno": "111",
+        "name": "兲 H⊘ʅ⊘ćäυ₴ҭ",
+        "warattack": "34",
+        "clancapital": "66",
+        "clangames": "2",
+        "clangamesmaxed": "2",
+        "clanscore": "104"
+    },
+    {
+        "srno": "112",
+        "name": "Schmidtyyy",
+        "warattack": "6",
+        "clancapital": "0",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "6"
+    },
+    {
+        "srno": "113",
+        "name": "Sk",
+        "warattack": "2",
+        "clancapital": "0",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "2"
+    },
+    {
+        "srno": "114",
+        "name": "SPARSH",
+        "warattack": "0",
+        "clancapital": "2",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "2"
+    },
+    {
+        "srno": "115",
+        "name": "pstavnee",
+        "warattack": "0",
+        "clancapital": "6",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "6"
+    },
+    {
+        "srno": "116",
+        "name": "jai hind",
+        "warattack": "96",
+        "clancapital": "233",
+        "clangames": "12",
+        "clangamesmaxed": "11",
+        "clanscore": "461"
+    },
+    {
+        "srno": "117",
+        "name": "KING",
+        "warattack": "5",
+        "clancapital": "9",
+        "clangames": "1",
+        "clangamesmaxed": "0",
+        "clanscore": "15"
+    },
+    {
+        "srno": "118",
+        "name": "KRUNAL",
+        "warattack": "21",
+        "clancapital": "48",
+        "clangames": "1",
+        "clangamesmaxed": "1",
+        "clanscore": "70"
+    },
+    {
+        "srno": "119",
+        "name": "Rafael",
+        "warattack": "56",
+        "clancapital": "69",
+        "clangames": "5",
+        "clangamesmaxed": "5",
+        "clanscore": "150"
+    },
+    {
+        "srno": "120",
+        "name": "TheBluePurge",
+        "warattack": "42",
+        "clancapital": "0",
+        "clangames": "3",
+        "clangamesmaxed": "1",
+        "clanscore": "45"
+    },
+    {
+        "srno": "121",
+        "name": "iMojamed",
+        "warattack": "0",
+        "clancapital": "0",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "0"
+    },
+    {
+        "srno": "122",
+        "name": "Díjú bháí",
+        "warattack": "95",
+        "clancapital": "162",
+        "clangames": "6",
+        "clangamesmaxed": "2",
+        "clanscore": "269"
+    },
+    {
+        "srno": "123",
+        "name": "junmel",
+        "warattack": "0",
+        "clancapital": "30",
+        "clangames": "1",
+        "clangamesmaxed": "0",
+        "clanscore": "31"
+    },
+    {
+        "srno": "124",
+        "name": "Obsidian Matrix",
+        "warattack": "19",
+        "clancapital": "30",
+        "clangames": "1",
+        "clangamesmaxed": "0",
+        "clanscore": "50"
+    },
+    {
+        "srno": "125",
+        "name": "INVECTUS",
+        "warattack": "0",
+        "clancapital": "23",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "23"
+    },
+    {
+        "srno": "126",
+        "name": "Zeroed",
+        "warattack": "11",
+        "clancapital": "6",
+        "clangames": "1",
+        "clangamesmaxed": "0",
+        "clanscore": "18"
+    },
+    {
+        "srno": "127",
+        "name": "DärkMatter",
+        "warattack": "9",
+        "clancapital": "23",
+        "clangames": "1",
+        "clangamesmaxed": "1",
+        "clanscore": "33"
+    },
+    {
+        "srno": "128",
+        "name": "crazydog clashs",
+        "warattack": "4",
+        "clancapital": "0",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "4"
+    },
+    {
+        "srno": "129",
+        "name": "pнanтoм",
+        "warattack": "19",
+        "clancapital": "19",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "38"
+    },
+    {
+        "srno": "130",
+        "name": "maviphi",
+        "warattack": "36",
+        "clancapital": "101",
+        "clangames": "3",
+        "clangamesmaxed": "0",
+        "clanscore": "140"
+    },
+    {
+        "srno": "131",
+        "name": "rydoly",
+        "warattack": "0",
+        "clancapital": "150",
+        "clangames": "5",
+        "clangamesmaxed": "2",
+        "clanscore": "160"
+    },
+    {
+        "srno": "132",
+        "name": "PIYUSH",
+        "warattack": "9",
+        "clancapital": "12",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "21"
+    },
+    {
+        "srno": "133",
+        "name": "Izzmanelham",
+        "warattack": "47",
+        "clancapital": "104",
+        "clangames": "1",
+        "clangamesmaxed": "0",
+        "clanscore": "152"
+    },
+    {
+        "srno": "134",
+        "name": "hersun",
+        "warattack": "0",
+        "clancapital": "1",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "1"
+    },
+    {
+        "srno": "135",
+        "name": "DIKSHANT",
+        "warattack": "0",
+        "clancapital": "1",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "1"
+    },
+    {
+        "srno": "136",
+        "name": "Uncle Hope",
+        "warattack": "167",
+        "clancapital": "0",
+        "clangames": "8",
+        "clangamesmaxed": "5",
+        "clanscore": "207"
+    },
+    {
+        "srno": "137",
+        "name": "madsjeet",
+        "warattack": "184",
+        "clancapital": "306",
+        "clangames": "12",
+        "clangamesmaxed": "11",
+        "clanscore": "622"
+    },
+    {
+        "srno": "138",
+        "name": "Born to be King",
+        "warattack": "64",
+        "clancapital": "108",
+        "clangames": "4",
+        "clangamesmaxed": "4",
+        "clanscore": "188"
+    },
+    {
+        "srno": "139",
+        "name": "Max",
+        "warattack": "34",
+        "clancapital": "123",
+        "clangames": "5",
+        "clangamesmaxed": "2",
+        "clanscore": "167"
+    },
+    {
+        "srno": "140",
+        "name": "jacob",
+        "warattack": "112",
+        "clancapital": "138",
+        "clangames": "6",
+        "clangamesmaxed": "5",
+        "clanscore": "280"
+    },
+    {
+        "srno": "141",
+        "name": ".Nêmmlm.",
+        "warattack": "68",
+        "clancapital": "100",
+        "clangames": "6",
+        "clangamesmaxed": "4",
+        "clanscore": "192"
+    },
+    {
+        "srno": "142",
+        "name": "stressball",
+        "warattack": "44",
+        "clancapital": "83",
+        "clangames": "3",
+        "clangamesmaxed": "0",
+        "clanscore": "130"
+    },
+    {
+        "srno": "143",
+        "name": "THAISENATOR",
+        "warattack": "16",
+        "clancapital": "54",
+        "clangames": "2",
+        "clangamesmaxed": "1",
+        "clanscore": "72"
+    },
+    {
+        "srno": "144",
+        "name": "JAGGU BHAI",
+        "warattack": "2",
+        "clancapital": "18",
+        "clangames": "1",
+        "clangamesmaxed": "0",
+        "clanscore": "21"
+    },
+    {
+        "srno": "145",
+        "name": "Raj",
+        "warattack": "1",
+        "clancapital": "77",
+        "clangames": "3",
+        "clangamesmaxed": "2",
+        "clanscore": "84"
+    },
+    {
+        "srno": "146",
+        "name": "Rajibl",
+        "warattack": "32",
+        "clancapital": "65",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "97"
+    },
+    {
+        "srno": "147",
+        "name": "ark316",
+        "warattack": "17",
+        "clancapital": "105",
+        "clangames": "3",
+        "clangamesmaxed": "0",
+        "clanscore": "125"
+    },
+    {
+        "srno": "148",
+        "name": "phil_mcraken",
+        "warattack": "5",
+        "clancapital": "54",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "59"
+    },
+    {
+        "srno": "149",
+        "name": "ROMAN EMPIRE",
+        "warattack": "0",
+        "clancapital": "3",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "3"
+    },
+    {
+        "srno": "150",
+        "name": "NeptuneDiver",
+        "warattack": "2",
+        "clancapital": "12",
+        "clangames": "0",
+        "clangamesmaxed": "0",
+        "clanscore": "14"
+    },
+    {
+        "srno": "151",
+        "name": "JEFFREY☠️",
+        "warattack": "5",
+        "clancapital": "64",
+        "clangames": "1",
+        "clangamesmaxed": "0",
+        "clanscore": "70"
+    },
+    {
+        "srno": "152",
+        "name": "MALAY",
+        "warattack": "13",
+        "clancapital": "12",
+        "clangames": "3",
+        "clangamesmaxed": "1",
+        "clanscore": "28"
+    }
+]
