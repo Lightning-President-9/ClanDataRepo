@@ -7,7 +7,7 @@ Up to June 2024, there was a significant upgrade of the database and the JavaScr
 ## Note
 `-1` indicates the member was not in the clan during that period – see data in [JSON](https://github.com/Lightning-President-9/ClanDataRepo/tree/main/Clan%20Members/Clan%20Monthly%20Performance%20JSON) or [CSV](https://github.com/Lightning-President-9/ClanDataRepo/tree/main/Clan%20Members/Clan%20Monthly%20Performance) formats.
 
-### Unique ID Corrections – July 2025 Update
+## Unique ID Corrections – July 2025 Update
 
 While compiling and updating member data from both active and former clan member APIs, I encountered inconsistencies in the `uniqueid` field — specifically, some entries were missing, and others were duplicated.
 
