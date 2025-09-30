@@ -17,21 +17,20 @@ While compiling and updating member data from both active and former clan member
 - Some IDs were accidentally duplicated (for instance, both **"its a smurf"** and another member had `COCAR#106`).
 - A couple of members had no assigned ID or were mistakenly assigned an ID that was already in use.
 
-#### Its Solution
+### Corrections Completed
 
-I manually reviewed and reassigned the following:
+The following updates were made after manual review and reassignment:
 
-- `COCAR#106` (duplicate) → updated to `COCAR#100` for **"its a smurf"**
-- `COCAR#107` (duplicate) → updated to `COCAR#101` for **"Laza"**
-- `COCAR#166` was assigned to **"tấn lộc"** (previously missing)
-- `COCAR#182` was assigned to **"***Ravi•••??"** (previously missing)
+- `COCAR#106` (duplicate) → reassigned to `COCAR#100` for **"its a smurf"**
+- `COCAR#107` (duplicate) → reassigned to `COCAR#101` for **"Laza"**
+- `COCAR#166` → now correctly assigned to **"tấn lộc"** (was previously missing)
+- `COCAR#182` → now correctly assigned to **"***Ravi•••??"** (was previously missing)
+- **"NeptuneDiver"** was listed under `COCAR#180` → now reassigned to `COCAR#113`
+- `COCAR#180` is now correctly assigned to **"***Ravi•••??"**
 
-All these updates have been reflected in both [https://coc-ancient-ruins-website.onrender.com/api/mem](https://coc-ancient-ruins-website.onrender.com/api/mem) and [https://coc-ancient-ruins-website.onrender.com/api/fmem](https://coc-ancient-ruins-website.onrender.com/api/fmem).
+All of the above corrections have been reflected in the following API endpoints:
 
-#### Still Pending
+- https://coc-ancient-ruins-website.onrender.com/api/mem  
+- https://coc-ancient-ruins-website.onrender.com/api/fmem
 
-- There is still one known duplicate:
-  - **"NeptuneDiver"** currently appears under `COCAR#180` — this will be reassigned to `COCAR#113`.
-  - After that, `COCAR#180` will rightfully belong to **"***Ravi•••??"**.
-
-This remaining correction will be completed **after the end of July 2025**.
+---
