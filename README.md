@@ -11,7 +11,7 @@ Up to June 2024, there was a significant upgrade of the database and the JavaScr
 
 While compiling and updating member data from both active and former clan member APIs, I encountered inconsistencies in the `uniqueid` field — specifically, some entries were missing, and others were duplicated.
 
-#### The Problem
+### The Problem
 
 - A few `uniqueid` values (like `COCAR#100`, `COCAR#101`, etc.) were missing entirely from the database.
 - Some IDs were accidentally duplicated (for instance, both **"its a smurf"** and another member had `COCAR#106`).
