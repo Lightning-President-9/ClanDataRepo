@@ -35,3 +35,8 @@ All of the above corrections have been reflected in the following API endpoints:
 
 ### Top Clan Contributors Clan Score Update
 - `30/11/25` Clan Score from `>75` -> `>200`
+
+### Clan Score Formula Update
+
+- Old Formula `Clan Score = War Attack + Clan Capital + Clan Games * (Clan Games Maxed == 0 ? 1 : Clan Games Maxed)`
+- New Formula (23/6/26) `Clan Score = War Attack + Clan Capital + Clan Games + Clan Games Maxed`
