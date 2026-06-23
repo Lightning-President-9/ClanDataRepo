@@ -28,11 +28,6 @@ The following updates were made after manual review and reassignment:
 - **"NeptuneDiver"** was listed under `COCAR#180` → now reassigned to `COCAR#113`
 - `COCAR#180` is now correctly assigned to **"***Ravi•••??"**
 
-All of the above corrections have been reflected in the following API endpoints:
-
-- https://coc-ancient-ruins-website.onrender.com/api/mem  
-- https://coc-ancient-ruins-website.onrender.com/api/fmem
-
 ### Top Clan Contributors Clan Score Update
 - `30/11/25` Clan Score from `>75` -> `>200`
 
