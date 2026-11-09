@@ -34,9 +34,9 @@ The following updates were made after manual review and reassignment:
 - `COCAR#106` (duplicate) → reassigned to `COCAR#100` for **"its a smurf"**
 - `COCAR#107` (duplicate) → reassigned to `COCAR#101` for **"Laza"**
 - `COCAR#166` → now correctly assigned to **"tấn lộc"** (was previously missing)
-- `COCAR#182` → now correctly assigned to **"***Ravi•••??"** (was previously missing)
+- `COCAR#182` → now correctly assigned to "***Ravi•••??" (was previously missing)
 - **"NeptuneDiver"** was listed under `COCAR#180` → now reassigned to `COCAR#113`
-- `COCAR#180` is now correctly assigned to **"***Ravi•••??"**
+- `COCAR#180` is now correctly assigned to "***Ravi•••??"
 
 ### Top Clan Contributors Clan Score Update
 - `30/11/25` Clan Score from `>75` -> `>200`
